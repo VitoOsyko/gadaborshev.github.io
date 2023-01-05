@@ -56,21 +56,16 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
+      - layout: left
+        title: Outsourcing company ITX
         link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        sub_title: QA Engeneer
+        caption: September 2022 - Present
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Solving 21st century problems by through endless testing in the name of creating game-changing products.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+            Every company needs a good quality assurance engineer and ITX is no exception. Testing can be difficult, but I play my part by ensuring the quality of the product and enjoy driving the fact that company appreciates my work.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
