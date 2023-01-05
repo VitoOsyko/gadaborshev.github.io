@@ -14,26 +14,26 @@ email: vitoqae@gmail.com
 darkmode: true
 
 # Social links
-# twitter_username: facespics
 github_username:  VitoOsyko
+linkedin_username: vitaly-osyko-09248a247
+instagram_username: pokrovsky_vito
+telegram_username: Pokrovsky_Vito
+# twitter_username: facespics
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: pokrovsky_vito
-linkedin_username: VitoOsyko
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
-telegram_username: Pokrovsky_Vito
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: Telegram link
+  icon: fa-telegram
+  url: https://t.me/Pokrovsky_Vito
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
