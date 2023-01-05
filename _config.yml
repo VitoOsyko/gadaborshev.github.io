@@ -32,7 +32,7 @@ telegram_username: Pokrovsky_Vito
 # Additional icon links
 additional_links:
 - title: Telegram link
-  icon: fa-telegram
+  icon: fa-brands fa-telegram
   url: https://t.me/Pokrovsky_Vito
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
