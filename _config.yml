@@ -6,37 +6,37 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Osyko Vitaly
-title: QA Engeneer
-email: vitoqae@gmail.com
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
-github_username:  VitoOsyko
-linkedin_username: vitaly-osyko-09248a247
-instagram_username: pokrovsky_vito
-telegram_username: Pokrovsky_Vito
-# twitter_username: facespics
+twitter_username: facespics
+github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: Telegram link
-  icon: fab fa-telegram (https://fontawesome.com/icons?d=gallery&m=free)
-  url: https://t.me/Pokrovsky_Vito
-- title: MyPortfolio
-  icon: fab fa-google-drive (https://fontawesome.com/icons?d=gallery&m=free)
-  url: https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -45,12 +45,12 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: ### About Me
+# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Vitaly and I'm a QA Engeneer. Results-driven and strong attention-to-detail. Passionate about testing software applications. Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking! Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills. I know 4 words in French and 2 in Spanish (not counting the numbers)
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Bug localization</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -89,7 +89,7 @@ content:
     content:
       - layout: left
         title: Harvard University
-        caption: 2011 - 2013
+        caption: 2010 - 2013
         sub_title: BSc Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
