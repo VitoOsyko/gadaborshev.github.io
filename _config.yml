@@ -45,12 +45,12 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: ### About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Vitaly and I'm a QA Engeneer.. Results-driven and strong attention-to-detail. Passionate about testing software applications. Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>test</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
