@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: ### About Me
+# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Vitaly and I'm a QA Engeneer. Results-driven and strong attention-to-detail. Passionate about testing software applications. Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking! Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills. I know 4 words in French and 2 in Spanish (not counting the numbers)
@@ -72,6 +72,14 @@ content:
          - Localization, Cross-platform, Cross-browser, Smoke, Critical path, Regression testing, Re-testing, Ad-hoc
          - Testing and collecting ad impressions on financing platforms ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
          - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link): checklists, test cases, bug reports, test result reports
+         
+  - title: Experience # Title for the section
+    layout: text # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Outsourcing company ITX
+        sub_title: QA Engeneer
+        caption: September 2022 - Present
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
