@@ -58,10 +58,8 @@ content:
     content:
       - layout: left
         title: Outsourcing company ITX
-        comments: >
-           QA Engeneer 
-           September 2022 - Present 
-           Reference: QA Leed
+        sub_title: QA Engeneer 
+        caption: September 2022 - Present
         quote: >
            Solving 21st century problems by through endless testing in the name of creating game-changing products
         description: | # this will include new lines to allow paragraphs
