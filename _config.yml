@@ -56,10 +56,13 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    ---
       - layout: left
         title: Outsourcing company ITX
         sub_title: QA Engeneer
-        reference: September 2022 - Present > Reference QA Leed
+        caption: September 2022 - Present 
+        reference: Reference QA Leed
+    ...    
         quote: >
            Solving 21st century problems by through endless testing in the name of creating game-changing products
         description: | # this will include new lines to allow paragraphs
