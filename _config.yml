@@ -60,6 +60,10 @@ content:
         title: Outsourcing company ITX
         sub_title: QA Engeneer
         caption: September 2022 - Present
+        sub_title: Reference
+        caption: Test 
+        icon: fab fa-telegram (https://fontawesome.com/icons?d=gallery&m=free)
+        url: https://t.me/Pokrovsky_Vito
         quote: >
            Solving 21st century problems by through endless testing in the name of creating game-changing products
         description: | # this will include new lines to allow paragraphs
@@ -72,7 +76,7 @@ content:
          - Testing and collecting ad impressions on financing platforms ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
          - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link): checklists, test cases, bug reports, test result reports
           
-  - title: Experience # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
