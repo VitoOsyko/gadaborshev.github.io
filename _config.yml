@@ -76,10 +76,7 @@ content:
   - title: Experience # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      - layout: left
-        title: Outsourcing company ITX
-        sub_title: QA Engeneer
-        caption: September 2022 - Present
+      Reference: fgdfgdfgdfgfgd
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
