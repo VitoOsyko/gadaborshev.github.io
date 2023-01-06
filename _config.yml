@@ -65,8 +65,8 @@ content:
         quote: >
           Solving 21st century problems by through endless testing in the name of creating game-changing products
         description: | # this will include new lines to allow paragraphs
-        
-            Every company needs a good quality assurance engineer and ITX is no exception. Testing can be difficult, but I play my part by ensuring the quality of the product and enjoy driving the fact that company appreciates my work: 
+         Every company needs a good quality assurance engineer and ITX is no exception. Testing can be difficult, but I play my part by ensuring the quality of the product and enjoy driving the fact that company appreciates my work. 
+         - UAT testing, functional testing
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
