@@ -75,7 +75,7 @@ content:
          
   - title: Experience # Title for the section
     layout: text # Type of content section (list/text)
-    content: Reference: test
+    content: Reference test
       
           
   - title: Education # Title for the section
