@@ -63,8 +63,8 @@ content:
         quote: >
            Solving 21st century problems by through endless testing in the name of creating game-changing products
         description: | # this will include new lines to allow paragraphs
-        Every company needs a good quality assurance engineer and ITX is no exception. Testing can be difficult, but I play my part by ensuring the quality of the product and enjoy driving the fact that company appreciates my work which is:
-        
+         Every company needs a good quality assurance engineer and ITX is no exception. Testing can be difficult, but I play my part by ensuring the quality of the product and enjoy driving the fact that company appreciates my work which is:
+         
          - UAT testing, functional testing
          - Web testing (prod Version: [capital.com](https://capital.com/) and [currency.com](https://currency.com/))
          - Mobile testing: (prod Version: app Investmate, app Crypto Price Widgets, app Liveness Check)
