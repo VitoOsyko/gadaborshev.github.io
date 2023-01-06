@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Solving 21st century problems by through endless testing in the name of creating game-changing products
+        title: <h3>Solving 21st century problems by through endless testing in the name of creating game-changing products</h3>
         #link: github.com/sproogen
         # link_text: Project Website
       - layout: list # Type of content section (list/text)
