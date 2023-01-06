@@ -63,7 +63,7 @@ content:
   - title: Reference # Title for the section
     layout: list
     content:
-       - layout: right
+       - layout: left
         title: Outsourcing company ITX
         sub_title: QA Engeneer
         caption: September 2022 - Present
