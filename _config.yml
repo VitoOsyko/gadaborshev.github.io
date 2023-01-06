@@ -60,7 +60,9 @@ content:
         title: Outsourcing company ITX
         sub_title: QA Engeneer
         caption: September 2022 - Present
-      - sub_title: Reference
+    content:
+      - layout: left
+        sub_title: Reference
         caption: Test 
         quote: >
            Solving 21st century problems by through endless testing in the name of creating game-changing products
