@@ -56,25 +56,26 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: top-middle
+      - layout: top-middle
         title: Solving 21st century problems by through endless testing in the name of creating game-changing products
+        #link: github.com/sproogen
+        # link_text: Project Website
+      - layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: Outsourcing company ITX
-        # link: github.com/sproogen
-        # link_text: Project Website
         sub_title: QA Engeneer
         caption: September 2022 - Present
         quote: >
-          Solving 21st century problems by through endless testing in the name of creating game-changing products
+           Every company needs a good quality assurance engineer and ITX is no exception. Testing can be difficult, but I play my part by ensuring the quality of the product and enjoy driving the fact that company appreciates my work which is:
         description: | # this will include new lines to allow paragraphs
-         Every company needs a good quality assurance engineer and ITX is no exception. Testing can be difficult, but I play my part by ensuring the quality of the product and enjoy driving the fact that company appreciates my work which is: 
          - UAT testing, functional testing
          - Web testing (prod Version: [capital.com](https://capital.com/) and [currency.com](https://currency.com/))
          - Mobile testing: (prod Version: app Investmate, app Crypto Price Widgets, app Liveness Check)
          - Localization, Cross-platform, Cross-browser, Smoke, Critical path, Regression testing, Re-testing, Ad-hoc
          - Testing and collecting ad impressions on financing platforms ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
          - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link): checklists, test cases, bug reports, test result reports
-
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
