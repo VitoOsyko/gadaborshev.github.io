@@ -60,7 +60,7 @@ content:
         title: Outsourcing company ITX
         sub_title: QA Engeneer
         caption: September 2022 - Present
-        reference: QA Leed
+        caption: QA Leed
         quote: >
            Solving 21st century problems by through endless testing in the name of creating game-changing products
         description: | # this will include new lines to allow paragraphs
@@ -72,8 +72,6 @@ content:
          - Localization, Cross-platform, Cross-browser, Smoke, Critical path, Regression testing, Re-testing, Ad-hoc
          - Testing and collecting ad impressions on financing platforms ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
          - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link): checklists, test cases, bug reports, test result reports 
-         
-         Reference: QA Leed
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
