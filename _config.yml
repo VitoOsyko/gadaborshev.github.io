@@ -58,7 +58,7 @@ content:
     content:
       - layout: left
         title: Outsourcing company ITX
-        sub_title: QA Engeneer 
+        sub_title: QA Engeneer
         caption: September 2022 - Present
         link: https://www.linkedin.com/in/innadidenko/
         link_text: Reference - QA Manager Inna Didenko
@@ -73,6 +73,7 @@ content:
          - Localization, Cross-platform, Cross-browser, Smoke, Critical path, Regression testing, Re-testing, Ad-hoc
          - Testing and collecting ad impressions on financing platforms ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
          - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link): checklists, test cases, bug reports, test result reports 
+         ![I work](images/kitty.png "I work")
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
