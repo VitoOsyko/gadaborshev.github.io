@@ -78,9 +78,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Ksendzov QA course
+        sub_title: QA Trainee
+        caption: August 2022 - Present
+        link: https://www.linkedin.com/in/vadim-ksendzov-74099837/
+        link_text: Reference - Lead QA Vadim Ksendzov
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
