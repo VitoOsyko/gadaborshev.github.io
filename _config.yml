@@ -56,6 +56,10 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: top-middle
+        title: quote: >
+          Solving 21st century problems by through endless testing in the name of creating game-changing products
+        description
       - layout: left
         title: Outsourcing company ITX
         # link: github.com/sproogen
