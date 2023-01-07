@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Bug localization</mark> and <mark>Eating Pizza</mark>
 
 content:
-   - title: Experience # Title for the section 
+  - title: Experience # Title for the section 
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
@@ -102,20 +102,12 @@ content:
             
             I continue to study diligently, with fire in my eyes to study a new profession! My main profession is a *primary school teacher*. What does it mean? That I'm stress-resistant to everything!
   
-   - title: Dear Hiring Manager
+  - title: Dear Hiring Manager
     layout: text
     content: | # this will include new lines to allow paragraphs
       
-     *Dear Hiring Manager
      Thank you for taking your time and considering my candidacy.
-     I created this site to show my interest in the position of [Junior+Manual QA Engineer] and to get you a little distracted from the standard CV made from a template. And also, this project helped me to better master HTML skills.
-
-     I have solid theoretical knowledge in QA and almost half a year i`ve been working for commercial project where l`ve been practicing and improving my hard and soft skills. Currently i`m managing several teams and estimating, prioritizing, planning and coordination quality testing activities. I am sure that i will be able to contribute to such cutting ages company like yours. 
-
-     Looking forward to discussing my candidacy and suitability for this position during an interview at your earliest convenience. Thank you for my taking your time and consideration.
-
-     Best Regards,
-     Vitaly Osyko*
+     I created this site to show my interest in the position of *Junior+Manual QA Engineer* and to get you a little distracted from the standard CV made from a template. And also, this project helped me to better master of HTML skills.
   
   - title: A Little More About Me
     layout: text
