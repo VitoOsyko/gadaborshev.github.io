@@ -99,12 +99,13 @@ content:
             
             During the course, I learned a lot and acquired the following <mark>hard skills:</mark>
             
-            - Testing Theory                                           - DevTools (Google Chrome, FireFox, Opera) 
+            - Testing Theory 
             - Analyzing and testing requirements 
             - Fiddler, Charles 
             - AppsFlyer 
             - Jira, YouTrack  
-            - Git, GitHub                                                 - DevTools (Google Chrome, FireFox, Opera) 
+            - Git, GitHub 
+            - DevTools (Google Chrome, FireFox, Opera) 
             - Postman 
             - SQL basics 
             - JS 
@@ -114,12 +115,17 @@ content:
             - 1C 
             - Jmetr
 
-  - title: Education # Title for the section
+  - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+        title: Hard
+        caption: - Attention to details
+                 - Communicability
+                 - Problem-solving
+                 - Focus on quality
+                 - Team player
+                 - Adaptability
         sub_title: BSc Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
