@@ -57,6 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Outsourcing company ITX
         sub_title: QA Engeneer
         caption: September 2022 - Present
