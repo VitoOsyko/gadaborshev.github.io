@@ -78,7 +78,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: Ksendzov QA course
         sub_title: QA Trainee
         caption: August 2022 - Present
