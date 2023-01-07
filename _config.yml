@@ -87,6 +87,7 @@ content:
           Per aspera ad astra... The difficult path from junior to commercial practice mentor
         description: | # this will include new lines to allow paragraphs
             After a long period of self-study, I decided to enroll in Vadim Ksendzov's courses. In addition to technical knowledge, in the flow of students, I acquired many <mark>soft skills:</mark>
+        quote: >  
             - Attention to details
             - Communicability
             - Problem-solving
@@ -97,21 +98,22 @@ content:
             There were many interesting tasks on the course, the execution of which you can see in my repository on [GitHub](https://github.com/VitoOsyko) and my [Google Drive](https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link).
             
             During the course, I learned a lot and acquired the following <mark>hard skills:</mark>
-        - layout: left
-             - Testing Theory 
-             - Analyzing and testing requirements 
-             - Fiddler, Charles 
-             - AppsFlyer 
-             - Jira, YouTrack 
-        - layout: right  
-             - Git, GitHub 
-             - DevTools (Google Chrome, FireFox, Opera) 
-             - Postman 
-             - SQL basics 
-             - JS 
-             - Terminal 
-             - Android Studio 
-             - HTML & CSS (YAML) - 1C - Jmetr
+        quote: >  
+            - Testing Theory 
+            - Analyzing and testing requirements 
+            - Fiddler, Charles 
+            - AppsFlyer 
+            - Jira, YouTrack  
+            - Git, GitHub 
+            - DevTools (Google Chrome, FireFox, Opera) 
+            - Postman 
+            - SQL basics 
+            - JS 
+            - Terminal 
+            - Android Studio 
+            - HTML & CSS (YAML) 
+            - 1C 
+            - Jmetr
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
