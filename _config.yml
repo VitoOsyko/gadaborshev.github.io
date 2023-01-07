@@ -105,7 +105,7 @@ content:
   - title: Dear Hiring Manager
     layout: text
     content: | # this will include new lines to allow paragraphs
-     *Thank you for taking your time and considering my candidacy.
+      *Thank you for taking your time and considering my candidacy.
      
      I created this site to show my interest in the position of `Junior+Manual QA Engineer` and to get you a little distracted from the standard CV made from a template. And also, this project helped me to better master HTML skills.
 
