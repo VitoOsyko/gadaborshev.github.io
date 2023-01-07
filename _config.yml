@@ -120,16 +120,17 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <mark>Language</mark>
+      *Language*
       
-      English - Professional Working Proficiency
-      Russian - Native or Bilingual Proficiency
+      <mark>English</mark> - Professional Working Proficiency
+      
+      <mark>Russian</mark> - Native or Bilingual Proficiency
       
       Alongside my interests in testing, other interests and hobbies are:
-      - - - Gaming
-      - - - Travel
-      - - - Cooking
-      - - - Wooman
+         - Gaming
+         - Travel
+         - Cooking
+         - Wooman
     
 # Footer
 footer_show_references: true
