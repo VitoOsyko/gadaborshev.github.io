@@ -98,7 +98,13 @@ content:
             
             During the course, I learned a lot and acquired the following <mark>hard skills:</mark>
             
-            - Testing Theory - Analyzing and testing requirements - Fiddler, Charles - AppsFlyer - Jira, YouTrack - Git, GitHub - DevTools (Google Chrome, FireFox, Opera) - Postman - SQL basics - JS - Terminal - Android Studio - HTML & CSS (YAML) - 1C - Jmetr
+        foo: - a
+             - b
+             - c
+             - 1
+             - 2
+             - 3           
+             - Testing Theory - Analyzing and testing requirements - Fiddler, Charles - AppsFlyer - Jira, YouTrack - Git, GitHub - DevTools (Google Chrome, FireFox, Opera) - Postman - SQL basics - JS - Terminal - Android Studio - HTML & CSS (YAML) - 1C - Jmetr
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
