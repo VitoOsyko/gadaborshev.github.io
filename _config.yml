@@ -148,16 +148,6 @@ content:
       Look at this cool image  
       ![Trees](images/landscape-trees.jpg "Trees")
     
-    URL:
-  Description: URL of the website
-  Value:
-    "Fn::Join":
-      - ""
-      - - "http://"
-        - "Fn::GetAtt":
-            - ElasticLoadBalancer
-            - DNSName
-    
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
