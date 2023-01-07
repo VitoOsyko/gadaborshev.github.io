@@ -105,18 +105,18 @@ content:
   - title: Dear Hiring Manager
     layout: text
     content: | # this will include new lines to allow paragraphs
-     Thank you for taking your time and considering my candidacy.
+     *Thank you for taking your time and considering my candidacy.
      
-     I created this site to show my interest in the position of [Junior+Manual QA Engineer] and to get you a little distracted from the standard CV made from a template. And also, this project helped me to better master HTML skills.
+     I created this site to show my interest in the position of `Junior+Manual QA Engineer` and to get you a little distracted from the standard CV made from a template. And also, this project helped me to better master HTML skills.
 
-     I have solid theoretical knowledge in QA and almost half a year i`ve been working for commercial project where l`ve been practing and improving my hard and soft skills. Currently i`m managing several teams and estimating, prioritizing, planning and coordination quality testing activities. I am sure that i will be able to contribute to such cutting ages company like yours. 
+     I have solid theoretical knowledge in QA and almost half a year i have been working for commercial project where i have been practing and improving my hard and soft skills. Currently i`m managing several teams and estimating, prioritizing, planning and coordination quality testing activities. I am sure that i will be able to contribute to such cutting ages company like yours. 
      Results-driven and strong attention to detail. Ability to learn quickly, often in high pressure situations, in order to fully
      understand a new product or platform. Great problem-solving skills and ability to perform well in a team.
 
      Here i attach my resume for your review. Looking forward to discussing my candidacy and suitability for this position during an interview at your earliest convenience. Thank you for my taking your time and consideration.
 
      Best Regards,
-     Vitaly Osyko
+     Vitaly Osyko*
       
   - title: A Little More About Me
     layout: text
