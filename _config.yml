@@ -88,11 +88,12 @@ content:
         description: | # this will include new lines to allow paragraphs
             After a long period of self-study, I decided to enroll in Vadim Ksendzov's courses. In addition to technical knowledge, in the flow of students, I acquired many <mark>soft skills:</mark>
             
-            ["Attention to details"], [Communicability]
-            - Problem-solving
-            - Focus on quality
-            - Team player
-            - Adaptability
+            - Attention to details
+            - - Communicability
+            - - - Problem-solving
+            - - - - Focus on quality
+            - - - - - Team player
+            - - - - - - Adaptability
             
             There were many interesting tasks on the course, the execution of which you can see in my repository on [GitHub](https://github.com/VitoOsyko) and my [Google Drive](https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link).
             
