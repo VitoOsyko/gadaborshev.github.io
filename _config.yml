@@ -88,10 +88,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             After a long period of self-study, I decided to enroll in Vadim Ksendzov's courses. In addition to technical knowledge, in the flow of students, I acquired many <mark>soft skills:</mark>
             
-            - Attention to details
-            - - Communicability
-            - - - Problem-solving
-            - - - - Focus on quality
+            - Attention to details - - Communicability - - - Test
+                - Problem-solving
+                    - - Focus on quality
             - - - - - Team player
             - - - - - - Adaptability
             
