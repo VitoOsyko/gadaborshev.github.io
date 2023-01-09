@@ -54,9 +54,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   *Language*
       
-      <mark>English</mark> - Professional Working Proficiency
-      
-      <mark>Russian</mark> - Native or Bilingual Proficiency
+  <mark>English</mark> - Professional Working Proficiency
+  <mark>Russian</mark> - Native or Bilingual Proficiency
 
 content:
   - title: Experience # Title for the section 
