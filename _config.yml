@@ -51,6 +51,12 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Vitaly and I'm a QA Engeneer. Results-driven and strong attention-to-detail. Passionate about testing software applications. Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking! Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills. I know 4 words in French and 2 in Spanish (not counting the numbers)
 
   I am most skilled in: <mark>Bug localization</mark> and <mark>Eating Pizza</mark>
+  
+  *Language*
+      
+      <mark>English</mark> - Professional Working Proficiency
+      
+      <mark>Russian</mark> - Native or Bilingual Proficiency
 
 content:
   - title: Experience # Title for the section 
@@ -120,11 +126,6 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      *Language*
-      
-      <mark>English</mark> - Professional Working Proficiency
-      
-      <mark>Russian</mark> - Native or Bilingual Proficiency
       
       Alongside my interests in testing, other interests and hobbies are:
          - Gaming
