@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Osyko Vitaly
-title: QA Engeneer
+title: QA Engineer
 email: vitoqae@gmail.com
 
 # Dark Mode (true/false/never)
@@ -48,7 +48,7 @@ additional_links:
 about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Vitaly and I'm a QA Engeneer. Results-driven and strong attention-to-detail. Passionate about testing software applications. Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking! Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills. I know 4 words in French and 2 in Spanish (not counting the numbers)
+  Hi, my name's Vitaly and I'm a QA Engeneer. Results-driven and strong attention-to-detail. Passionate about testing software applications. Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking! Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills. I know 4 words in French and 2 in Spanish (not counting the numbers).
 
   I am most skilled in: <mark>Bug localization</mark> and <mark>Eating Pizza</mark>
   
@@ -72,14 +72,14 @@ content:
         quote: >
            Solving 21st century problems by through endless testing in the name of creating game-changing products
         description: | # this will include new lines to allow paragraphs
-         Every company needs a good quality assurance engineer and ITX is no exception. Testing can be difficult, but I play my part by ensuring the quality of the product and enjoy driving the fact that company appreciates my work which is:
+         Every company needs a good quality assurance engineer and ITX is not an exception. Testing can be difficult, but I play my part by ensuring the quality of the product and enjoy driving the fact that company appreciates my work which is:
          
          - UAT testing, functional testing
          - Web testing (prod Version: [capital.com](https://capital.com/) and [currency.com](https://currency.com/))
-         - Mobile testing: (prod Version: app Investmate, app Crypto Price Widgets, app Liveness Check)
+         - Mobile testing (prod Version: app Investmate, app Crypto Price Widgets, app Liveness Check)
          - Localization, Cross-platform, Cross-browser, Smoke, Critical path, Regression testing, Re-testing, Ad-hoc
          - Testing and collecting ad impressions on financing platforms ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
-         - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link): checklists, test cases, bug reports, test result reports 
+         - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link) (checklists, test cases, bug reports, test result reports)
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -103,7 +103,7 @@ content:
             
             ![Hard Skills](images/chrome_I8zk12GAVO.png "HardSkills")
             
-            By the way, my activity on the course did not go unnoticed! Soon, I became a commercial practice mentor. 
+            By the way, my activity on the course did not go unnoticed! I became a commercial practice mentor. 
             My duties included: Review tasks, review bugs-reports, answering students' questions on course topics, explain mistakes, checking and helping with students' homeworks and more...
             
             I continue to study diligently, with fire in my eyes to study a new profession! My main profession is a *primary school teacher*. What does it mean? That I'm stress-resistant to everything!
@@ -111,17 +111,17 @@ content:
   - title: Dear Hiring Manager
     layout: text
     content: | # this will include new lines to allow paragraphs
-     Thank you for taking your time and considering my candidacy.
+     Thank you for me taking your time and considering my candidacy.
      
-     I created this site to show my interest in the position of `Junior+Manual QA Engineer` and to get you a little distracted from the standard CV made from a template. And also, this project helped me to better master HTML skills.
+     I created this site to show my interest in the position of `Junior+ Manual QA Engineer` and to get you a little distracted from the standard CV made from a template. And also, this project helped me to improve HTML skills.
 
-     I have solid theoretical knowledge in QA and almost half a year i've been working for commercial project where l've been practing and improving my hard and soft skills. Currently i`m managing several teams and estimating, prioritizing, planning and coordination quality testing activities. I am sure that i will be able to contribute to such cutting ages company like yours. 
+     I have solid theoretical knowledge in QA and almost half a year i've been working for commercial project where l've been practing and improving my hard and soft skills. Currently i`m managing several teams and estimating, prioritizing, planning and coordination quality testing activities. I am sure that I will be able to contribute to such cutting ages company like yours. 
      Results-driven and strong attention to detail. Ability to learn quickly, often in high pressure situations, in order to fully
      understand a new product or platform. Great problem-solving skills and ability to perform well in a team.
 
      Here i attach my resume for your review. Looking forward to discussing my candidacy and suitability for this position during an interview at your earliest convenience. Thank you for my taking your time and consideration.
 
-     Best Regards, Vitaly Osyko
+     Best Regards, Vitaly Osyko.
       
   - title: A Little More About Me
     layout: text
@@ -129,7 +129,7 @@ content:
       
       Alongside my interests in testing, other interests and hobbies are:
          - Gaming
-         - Travel
+         - Traveling
          - Cooking
 # Footer
 footer_show_references: true
