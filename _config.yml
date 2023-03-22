@@ -85,7 +85,16 @@ content:
         quote: >
           Per aspera ad astra... Трудный путь от джуниора до ментора коммерческой практики
         description: |
-          После длительного периода самостоятельного обучения я решил записаться на курсы Вадима Ксендзова. Помимо технических знаний, я приобрел много *<mark>soft skills:</mark>*
+          После длительного периода самостоятельного обучения я решил записаться на курсы Вадима Ксендзова. Помимо технических знаний, я приобрел много 
+          
+          *<mark>soft skills:</mark>*
+          
+          ![Soft Skills](images/chrome_jcWxJrhn65.png "SoftSkills")
+          
+          На курсах было много интересных заданий, выполнение которых вы можете увидеть в моем репозитории на [GitHub](https://github.com/VitoOsyko) и моем [Google Диске](https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link).
+          
+          Во время курса я многое узнал и приобрел следующие *<mark>hard skills:</mark>*
+        
   - title: Education
     layout: list
     content:
