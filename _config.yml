@@ -38,100 +38,75 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Обо мне
-about_profile_image: images/profile.jpg
+# about_title: About Me (Use this to override about section title)
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-    Здравствуйте! Меня зовут Виталий, мне 27 лет и я Junior QA Engineer. Я ищу своего первого работодателя. Компанию, где смогу расти и развиваться как профессионал. У менять есть опыт коммерческой практики на реальных проектах. У меня лёгкий характер, я умею работать в рамках строгого дедлайна и готов учиться новым технологиям.
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-    Обладаю крепкими знаниями теории тестирования и понимаю как применять её на практике. Способен работать в команде, создавать эффективные коммуникационные мосты между отделами. Я понимаю, что задача тестировщика не только заключается в проверке ПО на соответствие требованиям, но и в построении коммуникационных связей внутри компании. Только тесное взаимодействие с другими членами команды может гарантировать высокое качество продукта. Я уверен, что мои навыки и опыт могут принести большую пользу вашей компании, и я с радостью стану её частью! Вы всегда можете связаться со мной и узнать больше перейдя по ссылкам вверху. 
-
-  Я силён в: <mark>Локализации багов</mark> и <mark>Поедании пиццы</mark>
-  
-  *Знание языков*
-      
-  <mark>English</mark> - Чтение и написание технической документации
-  
-  <mark>Russian</mark> - Передано с молоком матери
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Experience # Title for the section 
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-    #border: weak
-        title: Outsourcing company ITX
-        sub_title: QA Engineer
-        caption: Сентябрь 2022
-        link: https://www.linkedin.com/in/innadidenko/
-        link_text: Reference - QA Manager Inna Didenko
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-           Решение проблем путем бесконечного тестирования, во имя создания продуктов меняющих правила игры
-        : | # this will include new lines to allow paragraphs
-         Каждая компания стремится к тому, чтобы ее продукты были высокого качества и отвечали потребностям клиентов. Инженер по обеспечению качества играет ключевую роль в достижении этой цели, и компания ITX не исключение. В своей работе я уделяю большое внимание тестированию продукта, чтобы выявить все возможные ошибки и недочеты. Тестирование может быть трудоемким процессом, но я знаю, что моя работа является важной частью процесса разработки и помогает улучшить качество продукта. Я считаю, что важно не только достигать целей, но и наслаждаться процессом работы, и я получаю огромное удовлетворение от того, что моя работа помогает улучшать качество продуктов и повышать удовлетворенность клиентов.
-         
-         - UAT-тестирование, функциональное тестирование
-         - Тестирование веб-приложений (продуктовая версия: [capital.com](https://capital.com/) и [currency.com](https://currency.com/))
-         - Тестирование мобильных приложений (продуктовая версия: приложения Investmate, Crypto Price Widgets, Liveness Check)
-         - Тестирование локализации, кросс-платформенное, кросс-браузерное, Smoke-тестирование, тестирование критического пути, регрессионное тестирование, повторное тестирование, Ad-hoc тестирование
-         - Тестирование и сбор данных о рекламных импрессиях на финансовых платформах ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
-         - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link) (checklists, test cases, bug reports, test result reports)
-            
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Ksendzov QA course
-        sub_title: QA Trainee
-        caption: August 2022 - Present
-        link: https://www.linkedin.com/in/vadim-ksendzov-74099837/
-        link_text: Reference - Lead QA Vadim Ksendzov
-        quote: >
-          Per aspera ad astra... The difficult path from junior to commercial practice mentor
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-            After a long period of self-study, I decided to enroll in Vadim Ksendzov's courses. In addition to technical knowledge, in the flow of students, I acquired many *<mark>soft skills:</mark>*
-            
-            ![Soft Skills](images/chrome_jcWxJrhn65.png "SoftSkills")
-            
-            There were many interesting tasks on the course, the execution of which you can see in my repository on [GitHub](https://github.com/VitoOsyko) and my [Google Drive](https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link).
-            
-            During the course, I learned a lot and acquired the following *<mark>hard skills:</mark>*
-            
-            ![Hard Skills](images/chrome_I8zk12GAVO.png "HardSkills")
-            
-            By the way, my activity on the course did not go unnoticed! I became a commercial practice mentor. 
-            My duties included: Review tasks, review bugs-reports, answering students' questions on course topics, explain mistakes, checking and helping with students' homeworks and more...
-            
-            I continue to study diligently, with fire in my eyes to study a new profession! My main profession is a *primary school teacher*. What does it mean? That I'm stress-resistant to everything!
-
-  - title: Dear Hiring Manager
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-     Thank you for me taking your time and considering my candidacy.
-     
-     I created this site to show my interest in the position of `Junior+ Manual QA Engineer` and to get you a little distracted from the standard CV made from a template. And also, this project helped me to improve HTML skills.
-
-     I have solid theoretical knowledge in QA and almost half a year i've been working for commercial project where l've been practing and improving my hard and soft skills. Currently I`m managing several teams and estimating, prioritizing, planning and coordination quality testing activities. I am sure that I will be able to contribute to such cutting ages company like yours. 
-     Results-driven and strong attention to detail. Ability to learn quickly, often in high pressure situations, in order to fully
-     understand a new product or platform. Great problem-solving skills and ability to perform well in a team.
-
-     Here I attach my resume for your review. Looking forward to discussing my candidacy and suitability for this position during an interview at your earliest convenience. Thank you for your time and consideration!
-
-     Best Regards, Vitaly Osyko.
-      
+          Description about the work on/with the project
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      
-      Alongside my interests in testing, other interests and hobbies are:
-         - Video Gaming
-         - Traveling
-         - Cooking
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: VitoOsyko/VitoOsyko.github.io
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
