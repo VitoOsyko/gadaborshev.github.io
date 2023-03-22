@@ -38,9 +38,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Здравствуйте! Меня зовут Виталий, мне 27 лет и я Junior QA Engineer. Я ищу своего первого работодателя. Компанию, где смогу расти и развиваться как профессионал. У менять есть опыт коммерческой практики на реальных проектах. У меня лёгкий характер, я умею работать в рамках строгого дедлайна и готов учиться новым технологиям.
 
-    Обладаю крепкими знаниями теории тестирования и понимаю как применять её на практике. Способен работать в команде, создавать эффективные коммуникационные мосты между отделами. Я понимаю, что задача тестировщика не только заключается в проверке ПО на соответствие требованиям, но и в построении коммуникационных связей внутри компании. Только тесное взаимодействие с другими членами команды может гарантировать высокое качество продукта. Я уверен, что мои навыки и опыт могут принести большую пользу вашей компании, и я с радостью стану её частью! Вы всегда можете связаться со мной и узнать больше перейдя по ссылкам вверху. 
+    Обладаю крепкими знаниями теории тестирования и понимаю как применять её на практике. Способен работать в команде, создавать эффективные коммуникационные мосты между отделами. Я понимаю, что задача тестировщика не только заключается в проверке ПО на соответствие требованиям, но и в построении коммуникационных связей внутри компании. Только тесное взаимодействие с другими членами команды может гарантировать высокое качество продукта. Я уверен, что мои навыки и опыт могут принести большую пользу вашей компании, и я с радостью стану её частью! Вы всегда можете связаться со мной и узнать больше перейдя по ссылкам сверху. 
 
-  Я силён в: <mark>Локализации багов</mark> и <mark>Поедании пиццы</mark>
+  Я силён в <mark>Локализации багов</mark> и <mark>Поедании пиццы</mark>
   
   *Знание языков*
       
@@ -49,26 +49,28 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Russian</mark> - Передано с молоком матери
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Мой опыт
+    layout: list 
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #border: weak
+        title: Outsourcing company ITX
+        sub_title: QA Engineer
+        caption: Сентябрь 2022
+        link: https://www.linkedin.com/in/innadidenko/
+        link_text: Reference - QA Manager Inna Didenko
         quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+           Решение проблем путем бесконечного тестирования, во имя создания продуктов меняющих правила игры
+        : | # this will include new lines to allow paragraphs
+         Каждая компания стремится к тому, чтобы ее продукты были высокого качества и отвечали потребностям клиентов. Инженер по обеспечению качества играет ключевую роль в достижении этой цели, и компания ITX не исключение. В своей работе я уделяю большое внимание тестированию продукта, чтобы выявить все возможные ошибки и недочеты. Тестирование может быть трудоемким процессом, но я знаю, что моя работа является важной частью процесса разработки и помогает улучшить качество продукта. Я считаю, что важно не только достигать целей, но и наслаждаться процессом работы, и я получаю огромное удовлетворение от того, что моя работа помогает улучшать качество продуктов и повышать удовлетворенность клиентов.
+         
+         - UAT-тестирование, функциональное тестирование
+         - Тестирование веб-приложений (продуктовая версия: [capital.com](https://capital.com/) и [currency.com](https://currency.com/))
+         - Тестирование мобильных приложений (продуктовая версия: приложения Investmate, Crypto Price Widgets, Liveness Check)
+         - Тестирование локализации, кросс-платформенное, кросс-браузерное, Smoke-тестирование, тестирование критического пути, регрессионное тестирование, повторное тестирование, Ad-hoc тестирование
+         - Тестирование и сбор данных о рекламных импрессиях на финансовых платформах ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
+         - [Тестовая документация](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link) (чек-листы, тест-кейсы, отчеты о найденных ошибках, отчеты о результатах тестирования)
+         
   - title: Experience
     layout: list
     content:
