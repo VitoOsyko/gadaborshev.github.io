@@ -56,15 +56,10 @@ content:
         # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                         # other value (or no value) means no border will be displayed
         title: Outsourcing company ITX
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        sub_title: QA Engineer
+        caption: Сентябрь 2022
+        link: https://www.linkedin.com/in/innadidenko/
+        link_text: Reference - QA Manager Inna Didenko
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
