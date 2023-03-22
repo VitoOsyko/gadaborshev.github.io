@@ -105,17 +105,21 @@ content:
   - title: Дорогой HR
     layout: text
     content: | # this will include new lines to allow paragraphs
-     Thank you for me taking your time and considering my candidacy.
+     Спасибо, что уделили время и рассмотрели мою кандидатуру.
      
-     I created this site to show my interest in the position of `Junior+ Manual QA Engineer` and to get you a little distracted from the standard CV made from a template. And also, this project helped me to improve HTML skills.
+     Я создал этот сайт, чтобы продемонстрировать свой интерес к должности `Junior+ Manual QA Engineer` и отвлечь вас от стандартного резюме, созданного по шаблону. Кроме того, этот проект помог мне улучшить навыки HTML.
 
-     I have solid theoretical knowledge in QA and almost half a year i've been working for commercial project where l've been practing and improving my hard and soft skills. Currently I`m managing several teams and estimating, prioritizing, planning and coordination quality testing activities. I am sure that I will be able to contribute to such cutting ages company like yours. 
-     Results-driven and strong attention to detail. Ability to learn quickly, often in high pressure situations, in order to fully
-     understand a new product or platform. Great problem-solving skills and ability to perform well in a team.
+     Я хочу выразить вам свой интерес к вакансии QA Engineer, которая открыта в вашей компании. Я убежден, что мой опыт и знания в области QA могут принести большую пользу вашей компании.
 
-     Here I attach my resume for your review. Looking forward to discussing my candidacy and suitability for this position during an interview at your earliest convenience. Thank you for your time and consideration!
+     Я понимаю, что у вас в вакансии указан опыт работы как минимум от года, в то время как у меня только 8 месяцев коммерческого опыта работы в QA. Однако, я хочу доказать свою готовность и способность успешно выполнять свои обязанности.
 
-     Best Regards, Vitaly Osyko.
+     За время моей работы я приобрел не только теоретические знания в области QA, но и практический опыт, работая над коммерческими проектами. Я уверен, что могу принести свой вклад в развитие вашей компании и принимать участие в проектах, чтобы помочь достичь общих целей.
+
+     Я очень заинтересован в возможности работать в вашей компании, и у меня есть желание развиваться в области QA. Я готов взять на себя ответственность за свою работу и прилагать все усилия, чтобы достичь успеха.
+
+     Благодарю вас за ваше время и внимание к моему письму. Я готов ответить на все ваши вопросы и рассмотреть любые предложения, которые вы можете предложить.
+
+     С уважением, Виталий
 
 # Footer
 footer_show_references: true
