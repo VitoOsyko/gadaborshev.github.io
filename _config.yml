@@ -62,6 +62,8 @@ content:
           Решение проблем путем бесконечного тестирования, во имя создания продуктов меняющих правила игры
         description: | # this will include new lines to allow paragraphs
           - UAT-тестирование, функциональное тестирование
+          - Тестирование веб-приложений (продуктовая версия: [capital.com](https://capital.com/) и [currency.com](https://currency.com/))
+          - Тестирование мобильных приложений (продуктовая версия: приложения Investmate, Crypto Price Widgets, Liveness Check)
   - title: Experience
     layout: list
     content:
