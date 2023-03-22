@@ -64,6 +64,10 @@ content:
           - UAT-тестирование, функциональное тестирование
           - Тестирование веб-приложений (продуктовая версия: [capital.com](https://capital.com/) и [currency.com](https://currency.com/))
           - Тестирование мобильных приложений (продуктовая версия: приложения Investmate, Crypto Price Widgets, Liveness Check)
+          - Тестирование локализации, кросс-платформенное, кросс-браузерное, Smoke-тестирование, тестирование критического пути, регрессионное тестирование, повторное         тестирование, Ad-hoc тестирование
+          - Тестирование и сбор данных о рекламных импрессиях на финансовых платформах ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
+          - [Тестовая документация](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link) (чек-листы, тест-кейсы, отчеты о найденных ошибках, отчеты о результатах тестирования)
+          
   - title: Experience
     layout: list
     content:
