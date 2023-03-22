@@ -73,14 +73,15 @@ content:
           - Создания юзер гайда по приложению
           - Участие в предоставлении онбординга для заказчиков
           - Написание еженедельного отчёта о проделаной работе
-  - title: Experience
+  - title: Релевантное образование
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: Ksendzov QA course
+        sub_title: QA Trainee
+        caption: Август 2022 - Present
+        link: https://www.linkedin.com/in/vadim-ksendzov-74099837/
+        link_text: Reference - Lead QA Vadim Ksendzov
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
