@@ -21,11 +21,11 @@ telegram_username: Pokrovsky_Vito
 # Additional icon links
 additional_links:
   - title: Telegram link
-  icon: fab fa-telegram (https://fontawesome.com/icons?d=gallery&m=free)
-  url: https://t.me/Pokrovsky_Vito
+    icon: fab fa-telegram (https://fontawesome.com/icons?d=gallery&m=free)
+    url: https://t.me/Pokrovsky_Vito
   - title: MyPortfolio
-  icon: fab fa-google-drive (https://fontawesome.com/icons?d=gallery&m=free)
-  url: https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link
+    icon: fab fa-google-drive (https://fontawesome.com/icons?d=gallery&m=free)
+    url: https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
