@@ -9,11 +9,6 @@ version: 2
 name: Осыко Виталий
 title: QA Engineer
 email: vitoqae@gmail.com
-# email_title: Email (Email title override)
-# phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-# website: https://vitoosyko.github.io/
-# website_title: Web (MyCV)
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -38,16 +33,20 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_title: Обо мне
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Здравствуйте! Меня зовут Виталий, мне 27 лет и я Junior QA Engineer. Я ищу своего первого работодателя. Компанию, где смогу расти и развиваться как профессионал. У менять есть опыт коммерческой практики на реальных проектах. У меня лёгкий характер, я умею работать в рамках строгого дедлайна и готов учиться новым технологиям.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    Обладаю крепкими знаниями теории тестирования и понимаю как применять её на практике. Способен работать в команде, создавать эффективные коммуникационные мосты между отделами. Я понимаю, что задача тестировщика не только заключается в проверке ПО на соответствие требованиям, но и в построении коммуникационных связей внутри компании. Только тесное взаимодействие с другими членами команды может гарантировать высокое качество продукта. Я уверен, что мои навыки и опыт могут принести большую пользу вашей компании, и я с радостью стану её частью! Вы всегда можете связаться со мной и узнать больше перейдя по ссылкам вверху. 
+
+  Я силён в: <mark>Локализации багов</mark> и <mark>Поедании пиццы</mark>
+  
+  *Знание языков*
+      
+  <mark>English</mark> - Чтение и написание технической документации
+  
+  <mark>Russian</mark> - Передано с молоком матери
 
 content:
   - title: Projects # Title for the section
