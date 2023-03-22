@@ -32,13 +32,17 @@ telegram_username: Pokrovsky_Vito
 # Additional icon links
 additional_links:
 - title: Telegram link
-  icon: fab fa-telegram
+  icon: fab fa-telegram (https://fontawesome.com/icons?d=gallery&m=free)
   url: https://t.me/Pokrovsky_Vito
-  target: _blank
 - title: MyPortfolio
-  icon: fab fa-google-drive
+  icon: fab fa-google-drive (https://fontawesome.com/icons?d=gallery&m=free)
   url: https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link
-  target: _blank
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 
 # About Section
 about_title: About Me
@@ -72,12 +76,12 @@ content:
         : | # this will include new lines to allow paragraphs
          Каждая компания стремится к тому, чтобы ее продукты были высокого качества и отвечали потребностям клиентов. Инженер по обеспечению качества играет ключевую роль в достижении этой цели, и компания ITX не исключение. В своей работе я уделяю большое внимание тестированию продукта, чтобы выявить все возможные ошибки и недочеты. Тестирование может быть трудоемким процессом, но я знаю, что моя работа является важной частью процесса разработки и помогает улучшить качество продукта. Я считаю, что важно не только достигать целей, но и наслаждаться процессом работы, и я получаю огромное удовлетворение от того, что моя работа помогает улучшать качество продуктов и повышать удовлетворенность клиентов.
          
-         - - UAT-тестирование, функциональное тестирование
-            - Тестирование веб-приложений (продуктовая версия: [capital.com](https://capital.com/) и [currency.com](https://currency.com/))
-            - Тестирование мобильных приложений (продуктовая версия: приложения Investmate, Crypto Price Widgets, Liveness Check)
-         - - Тестирование локализации, кросс-платформенное, кросс-браузерное, Smoke-тестирование, тестирование критического пути, регрессионное тестирование, повторное тестирование, Ad-hoc тестирование
-            - Тестирование и сбор данных о рекламных импрессиях на финансовых платформах ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
-            - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link) (checklists, test cases, bug reports, test result reports)
+         - UAT-тестирование, функциональное тестирование
+         - Тестирование веб-приложений (продуктовая версия: [capital.com](https://capital.com/) и [currency.com](https://currency.com/))
+         - Тестирование мобильных приложений (продуктовая версия: приложения Investmate, Crypto Price Widgets, Liveness Check)
+         - Тестирование локализации, кросс-платформенное, кросс-браузерное, Smoke-тестирование, тестирование критического пути, регрессионное тестирование, повторное тестирование, Ad-hoc тестирование
+         - Тестирование и сбор данных о рекламных импрессиях на финансовых платформах ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
+         - [Test documentation](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link) (checklists, test cases, bug reports, test result reports)
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
