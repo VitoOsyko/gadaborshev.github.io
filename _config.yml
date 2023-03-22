@@ -52,7 +52,7 @@ content:
   - title: Мой опыт
     layout: list 
     content:
-      - layout: left
+    - layout: left
     #border: weak
         title: Outsourcing company ITX
         sub_title: QA Engineer
