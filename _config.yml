@@ -102,23 +102,20 @@ content:
           Кстати, моя активность на курсе не прошла незамеченной! Я стал ментором коммерческой практики. Мои обязанности включали: проверку заданий, проверку отчетов об ошибках, ответы на вопросы студентов по темам курса, объяснение ошибок, проверка и помощь в выполнении домашних заданий студентов и многое другое...
           
           Я продолжаю усердно учиться, с огнем в глазах изучать новую профессию! Моя основная профессия - *учитель начальных классов*. Что это значит? Что я устойчив к стрессу в любых ситуациях!
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+  - title: Дорогой HR
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+     Thank you for me taking your time and considering my candidacy.
+     
+     I created this site to show my interest in the position of `Junior+ Manual QA Engineer` and to get you a little distracted from the standard CV made from a template. And also, this project helped me to improve HTML skills.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+     I have solid theoretical knowledge in QA and almost half a year i've been working for commercial project where l've been practing and improving my hard and soft skills. Currently I`m managing several teams and estimating, prioritizing, planning and coordination quality testing activities. I am sure that I will be able to contribute to such cutting ages company like yours. 
+     Results-driven and strong attention to detail. Ability to learn quickly, often in high pressure situations, in order to fully
+     understand a new product or platform. Great problem-solving skills and ability to perform well in a team.
+
+     Here I attach my resume for your review. Looking forward to discussing my candidacy and suitability for this position during an interview at your earliest convenience. Thank you for your time and consideration!
+
+     Best Regards, Vitaly Osyko.
 
 # Footer
 footer_show_references: true
