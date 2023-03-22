@@ -83,8 +83,8 @@ content:
         link: https://www.linkedin.com/in/vadim-ksendzov-74099837/
         link_text: Reference - Lead QA Vadim Ksendzov
         quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+          Per aspera ad astra... Трудный путь от джуниора до ментора коммерческой практики
+        description: |
           Description of role
   - title: Education
     layout: list
