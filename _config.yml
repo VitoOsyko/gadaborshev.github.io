@@ -32,7 +32,7 @@ additional_links:
 # About Section
 about_title: Обо мне
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Здравствуйте! Меня зовут Виталий, мне 27 лет и я Junior QA Engineer. Я ищу своего первого работодателя. Компанию, где смогу расти и развиваться как профессионал. У менять есть опыт коммерческой практики на реальных проектах. У меня лёгкий характер, я умею работать в рамках строгого дедлайна и готов учиться новым технологиям.
 
     Обладаю крепкими знаниями теории тестирования и понимаю как применять её на практике. Способен работать в команде, создавать эффективные коммуникационные мосты между отделами. Я понимаю, что задача тестировщика не только заключается в проверке ПО на соответствие требованиям, но и в построении коммуникационных связей внутри компании. Только тесное взаимодействие с другими членами команды может гарантировать высокое качество продукта. Я уверен, что мои навыки и опыт могут принести большую пользу вашей компании, и я с радостью стану её частью! Вы всегда можете связаться со мной и узнать больше перейдя по ссылкам сверху. 
@@ -57,43 +57,70 @@ content:
         link_text: Reference - QA Manager Inna Didenko
         quote: >
           Решение проблем путем бесконечного тестирования, во имя создания продуктов меняющих правила игры
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - UAT-тестирование, функциональное тестирование
           - Тестирование веб-приложений (продуктовая версия: [capital.com](https://capital.com/) и [currency.com](https://currency.com/))
           - Тестирование мобильных приложений (продуктовая версия: приложения Investmate, Crypto Price Widgets, Liveness Check)
-  - title: Experience
+          - Тестирование локализации, кросс-платформенное, кросс-браузерное, Smoke-тестирование, тестирование критического пути, регрессионное тестирование, ретесты, Ad-hoc тестирование
+          - Тестирование и сбор статистики показов рекламы на финансовых платформах c/без поведенческого таргетного показов ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
+          - Создание [Тестовой документации](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link) (чек листы для desctop и mobile browsers: smoke, critical, regression)
+          - Оформление баг репортов
+          - Составление State & Transition Diagram для мобильных приложений
+          - Описание графических элементов для стандартизации тестовой документации 
+          - Создания юзер гайда по приложению
+          - Участие в предоставлении онбординга для заказчиков
+          - Написание еженедельного отчёта о проделаной работе
+  - title: Релевантное образование
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: Ksendzov QA course
+        sub_title: QA Trainee
+        caption: Август 2022 - Present
+        link: https://www.linkedin.com/in/vadim-ksendzov-74099837/
+        link_text: Reference - Lead QA Vadim Ksendzov
         quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+          Per aspera ad astra... Трудный путь от джуниора до ментора коммерческой практики
+        description: |
+          После длительного периода самостоятельного обучения я решил записаться на курсы Вадима Ксендзова. Помимо технических знаний, я приобрел много 
+          
+          *<mark>soft skills:</mark>*
+          
+          ![Soft Skills](images/chrome_jcWxJrhn65.png "SoftSkills")
+          
+          На курсах было много интересных заданий, выполнение которых вы можете увидеть в моем репозитории на [GitHub](https://github.com/VitoOsyko) и моем [Google Диске](https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link).
+          
+          Во время курса я многое узнал и приобрел следующие 
+          
+          *<mark>hard skills:</mark>*
+          
+          ![Hard Skills](images/chrome_I8zk12GAVO.png "HardSkills")
+          
+          Кстати, моя активность на курсе не прошла незамеченной! Я стал ментором коммерческой практики. Мои обязанности включали: проверку заданий, проверку отчетов об ошибках, ответы на вопросы студентов по темам курса, объяснение ошибок, проверка и помощь в выполнении домашних заданий студентов и многое другое...
+          
+          Я продолжаю усердно учиться, с огнем в глазах изучать новую профессию! Моя основная профессия - *учитель начальных классов*. Что это значит? Что я устойчив к стрессу в любых ситуациях!
+  - title: Дорогой HR
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+     Спасибо, что уделили время и рассмотрели мою кандидатуру.
+     
+     Я создал этот сайт, чтобы продемонстрировать свой интерес к должности `Junior+ Manual QA Engineer` и отвлечь вас от стандартного резюме, созданного по шаблону. Кроме того, этот проект помог мне улучшить навыки HTML.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+     Я хочу выразить вам свой интерес к вакансии QA Engineer, которая открыта в вашей компании. Я убежден, что мой опыт и знания в области QA могут принести большую пользу вашей компании.
+
+     Я понимаю, что у вас в вакансии указан опыт работы как минимум от года, в то время как у меня только 8 месяцев коммерческого опыта работы в QA. Однако, я хочу доказать свою готовность и способность успешно выполнять свои обязанности.
+
+     За время моей работы я приобрел не только теоретические знания в области QA, но и практический опыт, работая над коммерческими проектами. Я уверен, что могу принести свой вклад в развитие вашей компании и принимать участие в проектах, чтобы помочь достичь общих целей.
+
+     Я очень заинтересован в возможности работать в вашей компании, и у меня есть желание развиваться в области QA. Я готов взять на себя ответственность за свою работу и прилагать все усилия, чтобы достичь успеха.
+
+     Благодарю вас за ваше время и внимание к моему письму. Я готов ответить на все ваши вопросы и рассмотреть любые предложения, которые вы можете предложить.
+
+     С уважением, Виталий
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References on request (@Pokrovsky_Vito)
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
