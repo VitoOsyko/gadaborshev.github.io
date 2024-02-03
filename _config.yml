@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Осыко Виталий
+name:  Осыко Виталий
 title: Project Manager
 email: vitalyasroma@gmail.com
 
@@ -65,6 +65,32 @@ content:
           - Создания юзер гайда по приложению
           - Участие в предоставлении онбординга для заказчиков
           - Написание еженедельного отчёта о проделаной работе
+
+content:
+    layout: list
+    content:
+      - layout: left
+        title: Outsourcing company ITX
+        sub_title: QA Engineer
+        caption: Сентябрь 2022
+        link: https://www.linkedin.com/in/innadidenko/
+        link_text: Reference - QA Manager Inna Didenko
+        quote: >
+          Решение проблем путем бесконечного тестирования, во имя создания продуктов меняющих правила игры
+        description: |
+          - UAT-тестирование, функциональное тестирование
+          - Тестирование веб-приложений (продуктовая версия: [capital.com](https://capital.com/) и [currency.com](https://currency.com/))
+          - Тестирование мобильных приложений (продуктовая версия: приложения Investmate, Crypto Price Widgets, Liveness Check)
+          - Тестирование локализации, кросс-платформенное, кросс-браузерное, Smoke-тестирование, тестирование критического пути, регрессионное тестирование, ретесты, Ad-hoc тестирование
+          - Тестирование и сбор статистики показов рекламы на финансовых платформах c/без поведенческого таргетного показов ([Investopedia](https://www.investopedia.com/), [FT](https://www.ft.com/), [Bloomberg](https://www.bloomberg.com/))
+          - Создание [Тестовой документации](https://drive.google.com/drive/folders/12BRNLBO7HZvBkDHRUMyQr2I7sAFId0Rz?usp=share_link) (чек листы для desctop и mobile browsers: smoke, critical, regression)
+          - Оформление баг репортов
+          - Составление State & Transition Diagram для мобильных приложений
+          - Описание графических элементов для стандартизации тестовой документации 
+          - Создания юзер гайда по приложению
+          - Участие в предоставлении онбординга для заказчиков
+          - Написание еженедельного отчёта о проделаной работе
+
   - title: Релевантное образование
     layout: list
     content:
