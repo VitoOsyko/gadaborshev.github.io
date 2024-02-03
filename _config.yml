@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Осыко Виталий
-title: QA Engineer
-email: vitoqae@gmail.com
+title: Project Manager
+email: vitalyasroma@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -22,10 +22,7 @@ additional_links:
   - title: Telegram link
     icon: fab fa-telegram (https://fontawesome.com/icons?d=gallery&m=free)
     url: https://t.me/Pokrovsky_Vito
-  - title: MyPortfolio
-    icon: fab fa-google-drive (https://fontawesome.com/icons?d=gallery&m=free)
-    url: https://drive.google.com/drive/folders/14wouMRFl7Py97EzI_cPdJZvvLyVFh4hy?usp=share_link
-
+    
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
